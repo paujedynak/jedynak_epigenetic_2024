@@ -1,0 +1,26 @@
+Exposure_long,Exposure,LOD
+Bisphenol A,BPA,0.04
+Bisphenol B,BPS,0.1
+Benzophenone-3,BP3,0.04
+Butylparaben,BUPA,0.07
+Ethylparaben,ETPA,0.04
+Methylparaben,MEPA,0.04
+Propylparaben,PRPA,0.04
+MEP,MEP,0.2
+MiBP,MiBP,0.2
+MnBP,MnBP,0.2
+MBzP,MBzP,0.07
+OH-MPHP,ohMPHP,0.07
+MECPP,MECPP,0.7
+MEHHP,MEHHP,0.2
+MEHP,MEHP,0.2
+MEOHP,MEOHP,0.2
+MMCHP,MMCHP,0.7
+?DEHP,DEHP,
+cx-MiNP,cxMiNP,0.4
+OH-MiNP,ohMiNP,0.1
+oxo-MiNP,oxoMiNP,0.1
+?DiNP,DiNP,
+OH-MINCH,ohMINCH,0.07
+oxo-MINCH,oxoMINCH,0.07
+?DINCH,DINCH,

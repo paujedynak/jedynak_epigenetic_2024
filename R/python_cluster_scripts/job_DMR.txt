@@ -1,0 +1,16 @@
+oarsub -l /nodes=1/core=6,walltime=12:00:00 --project epimed "/home/slavakp/miniconda3/bin/python3.7 /home/slavakp/sepages/phenols_phthalates_DNAm/R/combp_EWAS_agnostic.py"
+oarsub -l /nodes=1/core=6,walltime=12:00:00 --project epimed "/home/slavakp/miniconda3/bin/python3.7 /home/slavakp/sepages/phenols_phthalates_DNAm/R/combp_EWAS_agnostic_sex.py"
+oarsub -l /nodes=1/core=6,walltime=12:00:00 --project epimed "/home/slavakp/miniconda3/bin/python3.7 /home/slavakp/sepages/phenols_phthalates_DNAm/R/combp_EWAS_overlap.py"
+oarsub -l /nodes=1/core=6,walltime=12:00:00 --project epimed "/home/slavakp/miniconda3/bin/python3.7 /home/slavakp/sepages/phenols_phthalates_DNAm/R/combp_EWAS_overlap_sex.py"
+
+oarsub -l /nodes=1/core=6,walltime=36:00:00 --project epimed "/home/slavakp/sepages/phenols_phthalates_DNAm/R/jobs/combp.sh"
+
+
+# Useful commands
+oarstat -u slavakp
+oarstat | grep slavakp
+oardel jobnumber
+oarstat -f -j jobnumber
+chandler
+
+oarstat -f -j 22473687

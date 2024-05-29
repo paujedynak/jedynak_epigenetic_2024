@@ -1,0 +1,29 @@
+"Covariate","Distribution_included","N_included","Distribution_excluded","N_excluded"
+"","     N=395      ",NA,"      N=84      ",NA
+"season_conc:","                ",395,"                ",84
+"    Jan_March","   99 (25.1%)   ",NA,"   25 (29.8%)   ",NA
+"    April_June","   81 (20.5%)   ",NA,"   19 (22.6%)   ",NA
+"    July_Sept","   95 (24.1%)   ",NA,"   16 (19.0%)   ",NA
+"    Oct_Dec","  120 (30.4%)   ",NA,"   24 (28.6%)   ",NA
+"mother_act_smoke:","                ",395,"                ",84
+"    Didn't_smoke","  320 (81.0%)   ",NA,"   63 (75.0%)   ",NA
+"    Smoked_before_OrAnd_in_pregn","   47 (11.9%)   ",NA,"   8 (9.52%)    ",NA
+"    'Missing_smoke'","   28 (7.09%)   ",NA,"   13 (15.5%)   ",NA
+"parity:","                ",395,"                ",84
+"    Nulliparous","  178 (45.1%)   ",NA,"   40 (47.6%)   ",NA
+"    One_and_more","  217 (54.9%)   ",NA,"   44 (52.4%)   ",NA
+"mother_edu:","                ",395,"                ",84
+"    bac+2","   69 (17.5%)   ",NA,"   14 (16.7%)   ",NA
+"    bac+3,4","  100 (25.3%)   ",NA,"   26 (31.0%)   ",NA
+"    bac>5","  224 (56.7%)   ",NA,"   44 (52.4%)   ",NA
+"    'Missing_edu'","   2 (0.51%)    ",NA,NA,NA
+"mother_bmi:","                ",395,"                ",84
+"    Normal_weight","  296 (74.9%)   ",NA,"   65 (77.4%)   ",NA
+"    Overweight_obesity","   69 (17.5%)   ",NA,"   16 (19.0%)   ",NA
+"    Underweight","   26 (6.58%)   ",NA,"   3 (3.57%)    ",NA
+"    'Missing_bmi'","   4 (1.01%)    ",NA,NA,NA
+"child_sex:","                ",395,"                ",84
+"    Male","  210 (53.2%)   ",NA,"   47 (56.0%)   ",NA
+"    Female","  185 (46.8%)   ",NA,"   37 (44.0%)   ",NA
+"mother_age","32.2 [29.8;35.1]",395,"32.1 [30.0;35.5]",84
+"gest_age","40.0 [39.1;40.7]",395,"39.7 [37.8;40.6]",84

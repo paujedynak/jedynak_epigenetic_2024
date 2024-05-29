@@ -1,0 +1,115 @@
+"child_sex","Exposure_name","CpG","Chr","Position","Gene","Location_of_CpG","Location_in_gene","Mean_meth","SD_meth","Estimate_CI","raw_p_value","p_value_FDR"
+"Female","Bisphenol A (BPA)","cg03536846","8",120886254,"DEPDC6","Island","Body",0.038,0.007,"0.0029 (0.0019;0.0040)",2.6149119591406e-08,0.007
+"Female","Bisphenol A (BPA)","cg13782090","2",220417853,"OBSL1","Island","Body",0.045,0.014,"0.0050 (0.0033;0.0067)",9.43141933025679e-09,0.007
+"Female","Bisphenol A (BPA)","cg13896604","17",73043189,"ATP5H;KCTD2;ATP5H","Island","TSS200;TSS200;TSS200",0.03,0.006,"0.0018 (0.0010;0.0026)",3.6265275829174e-06,0.044
+"Female","Bisphenol A (BPA)","cg19305511","19",9694932,"ZNF121","Island","5'UTR",0.041,0.011,"0.0039 (0.0024;0.0054)",3.8518219203828e-07,0.032
+"Female","Methylparaben (MEPA)","cg17430630","12",108608365,"WSCD2;WSCD2","OpenSea","Body;Body",0.17,0.12,"Non-linear",3.80819882700907e-11,0
+"Female","Monoethyl phthalate (MEP)","cg09840150","9",216162,"C9orf66;DOCK8","S_Shore","TSS1500;Body",0.649,0.068,"-0.0218 (-0.0296;-0.0140)",4.3004568640352e-08,0.017
+"Female","Monoethyl phthalate (MEP)","cg17147909","2",231277705,"Unknown","OpenSea","No group",0.673,0.044,"-0.0135 (-0.0184;-0.0087)",4.5224222814914e-08,0.017
+"Female","Mono-iso-butyl phthalate (MiBP)","cg01051537","16",24246243,"Unknown","OpenSea","No group",0.275,0.131,"Non-linear",2.13610775663941e-08,0.016
+"Female","Mono-n-butyl phthalate (MnBP)","cg10726214","19",44221454,"IRGC","N_Shore","5'UTR",0.81,0.045,"-0.0225 (-0.0301;-0.0149)",6.98516117156132e-09,0.005
+"Female","Monobenzyl phthalate (MBzP)","cg16771716","11",65667296,"FOSL1","Island","Body",0.022,0.007,"Non-linear",7.6068938418855e-08,0.032
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg01615827","10",93371064,"LOC100188947","OpenSea","Body",0.317,0.065,"0.0284 (0.0167;0.0400)",1.80972001768407e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg02995731","6",40346035,"TDRG1","OpenSea","TSS200",0.48,0.064,"0.0356 (0.0233;0.0479)",1.27740788140509e-08,0.01
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg07058174","10",87989231,"GRID1","OpenSea","Body",0.801,0.051,"0.0279 (0.0165;0.0393)",1.67606745910602e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg07101212","5",10664029,"Unknown","OpenSea","No group",0.327,0.086,"0.0458 (0.0273;0.0643)",1.19312717843614e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg07897701","7",150549370,"ABP1","OpenSea","TSS1500",0.418,0.084,"0.0439 (0.0265;0.0612)",7.16806092609733e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg08439276","2",68937224,"Unknown","OpenSea","No group",0.346,0.091,"0.0500 (0.0298;0.0701)",1.17734472104937e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg09818425","2",226514207,"NYAP2","OpenSea","Body",0.487,0.102,"0.0561 (0.0337;0.0785)",9.05205623246461e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg10862939","11",65495249,"Unknown","OpenSea","No group",0.798,0.055,"0.0302 (0.0178;0.0426)",1.7042485093164e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg10953378","1",14024101,"Unknown","N_Shelf","No group",0.426,0.108,"0.0643 (0.0377;0.0908)",2.04593092449791e-06,0.05
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg12793525","10",44875989,"CXCL12;CXCL12;CXCL12","N_Shelf","Body;Body;Body",0.645,0.076,"0.0397 (0.0239;0.0554)",7.64840287570889e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg12829045","10",77228852,"Unknown","OpenSea","No group",0.08,0.041,"0.0163 (0.0098;0.0228)",8.19224850454952e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg13274594","19",51906879,"Unknown","OpenSea","No group",0.549,0.1,"0.0572 (0.0338;0.0807)",1.74533235450291e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg13884047","9",136287394,"ADAMTS13;ADAMTS13;ADAMTS13;ADAMTS13;ADAMTS13;ADAMTS13;ADAMTS13","S_Shelf","5'UTR;5'UTR;5'UTR;1stExon;1stExon;1stExon;Body",0.472,0.067,"0.0361 (0.0214;0.0509)",1.63859607371076e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg14887482","3",186383213,"HRG","OpenSea","TSS1500",0.352,0.1,"0.0456 (0.0270;0.0643)",1.67170447106276e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg15157450","17",37304072,"PLXDC1","N_Shelf","Body",0.529,0.107,"0.0676 (0.0409;0.0942)",6.9488662697643e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg16059167","1",3246855,"PRDM16;PRDM16","OpenSea","Body;Body",0.301,0.089,"0.0436 (0.0257;0.0615)",1.80421360239183e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg16549490","1",203187773,"CHIT1;CHIT1;CHIT1;CHIT1;CHIT1","OpenSea","Body;Body;Body;Body;Body",0.464,0.079,"0.0408 (0.0253;0.0563)",2.51236496988956e-07,0.034
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg18069964","11",117295484,"Unknown","N_Shelf","No group",0.325,0.081,"0.0258 (0.0156;0.0359)",6.07959549255884e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg21556967","4",156132665,"NPY2R","S_Shelf","5'UTR",0.176,0.067,"0.0266 (0.0158;0.0374)",1.43867450818704e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg22554342","8",6528176,"MCPH1-AS1","OpenSea","Body",0.432,0.056,"0.0240 (0.0141;0.0339)",2.0427517512172e-06,0.05
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg23193657","2",103233395,"Unknown","N_Shore","No group",0.776,0.068,"0.0400 (0.0240;0.0560)",9.80983397039372e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg23358933","12",113917079,"Unknown","N_Shore","No group",0.189,0.124,"0.0832 (0.0499;0.1165)",9.63975562120372e-07,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg23635275","20",37561562,"FAM83D","OpenSea","Body",0.776,0.044,"0.0224 (0.0132;0.0315)",1.67241750567349e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg23950751","1",168190245,"Unknown","OpenSea","No group",0.404,0.088,"0.0445 (0.0277;0.0613)",2.09185122469567e-07,0.034
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg24582377","12",58138195,"TSPAN31","OpenSea","TSS1500",0.116,0.065,"0.0370 (0.0229;0.0511)",2.72706788572766e-07,0.034
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg25151529","10",44529280,"Unknown","OpenSea","No group",0.599,0.102,"0.0487 (0.0287;0.0687)",1.87296065211204e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg26367948","3",42735516,"HHATL;HHATL","OpenSea","Body;Body",0.274,0.055,"0.0270 (0.0159;0.0380)",1.73499815112938e-06,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg26617938","19",16025622,"CYP4F11;CYP4F11","S_Shelf","Body;Body",0.598,0.13,"Non-linear",6.45024407339605e-08,0.049
+"Female","Mono-2-ethyl-5-carboxypentyl phthalate (MECPP)","cg27588348","11",58690510,"Unknown","OpenSea","No group",0.196,0.056,"0.0332 (0.0207;0.0458)",1.89970086480323e-07,0.034
+"Female","Mono-2-ethyl-5-hydroxyhexyl phthalate (MEHHP)","cg16435635","5",150748119,"Unknown","OpenSea","No group",0.782,0.104,"Non-linear",1.41646137477364e-08,0.005
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg00451486","7",27269406,"Unknown","S_Shelf","No group",0.65,0.05,"0.0174 (0.0103;0.0245)",1.49050918369704e-06,0.047
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg00474970","4",157564007,"Unknown","OpenSea","No group",0.702,0.076,"0.0329 (0.0212;0.0446)",3.30490373004236e-08,0.011
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg01668126","8",16050740,"MSR1;MSR1;MSR1","OpenSea","TSS1500;TSS1500;TSS1500",0.608,0.094,"0.0385 (0.0234;0.0536)",5.80508874502137e-07,0.029
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg03829441","2",43233224,"Unknown","OpenSea","No group",0.67,0.04,"0.0137 (0.0085;0.0189)",2.41569531319592e-07,0.018
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg04238520","3",67914340,"SUCLG2-AS1","OpenSea","Body",0.563,0.102,"0.0403 (0.0273;0.0534)",1.51970121142182e-09,0.001
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg04598479","4",77187383,"FAM47E;FAM47E;FAM47E-STBD1","OpenSea","Body;Body;Body",0.776,0.044,"0.0156 (0.0099;0.0213)",7.25509939200356e-08,0.011
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg05200694","5",40442560,"Unknown","OpenSea","No group",0.286,0.052,"0.0197 (0.0118;0.0277)",1.13060544612939e-06,0.04
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg05641913","12",57410518,"TAC3","OpenSea","TSS200",0.778,0.065,"0.0104 (0.0061;0.0146)",1.63624816091888e-06,0.047
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg07047123","8",288634,"Unknown","OpenSea","No group",0.731,0.083,"0.0314 (0.0189;0.0440)",9.49181026975911e-07,0.036
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg10352688","5",110737745,"CAMK4","OpenSea","Body",0.254,0.066,"0.0281 (0.0168;0.0394)",1.17578902484684e-06,0.04
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg12873059","4",157563678,"Unknown","OpenSea","No group",0.777,0.079,"0.0311 (0.0191;0.0431)",3.57091389106417e-07,0.022
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg14420059","7",18360129,"HDAC9","OpenSea","Body",0.692,0.063,"0.0236 (0.0146;0.0326)",2.60339136953479e-07,0.018
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg14770102","11",58984446,"Unknown","OpenSea","No group",0.74,0.058,"0.0126 (0.0079;0.0173)",1.72824248529708e-07,0.016
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg16104584","1",9149734,"SLC2A5","OpenSea","TSS1500",0.704,0.074,"0.0258 (0.0153;0.0362)",1.38451614047224e-06,0.045
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg16107972","1",177420696,"Unknown","OpenSea","No group",0.688,0.067,"0.0293 (0.0187;0.0400)",6.23546129472131e-08,0.011
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg19931793","4",157563725,"Unknown","OpenSea","No group",0.675,0.081,"0.0343 (0.0213;0.0474)",2.2458622890368e-07,0.018
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg20013688","1",62123940,"Unknown","S_Shelf","No group",0.502,0.09,"0.0316 (0.0198;0.0433)",1.46163331520823e-07,0.016
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg20695465","6",138020469,"Unknown","OpenSea","No group",0.659,0.066,"0.0161 (0.0097;0.0225)",8.81695109547242e-07,0.036
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg21896310","4",157563476,"Unknown","OpenSea","No group",0.656,0.055,"0.0219 (0.0141;0.0298)",4.57950534804114e-08,0.011
+"Female","Mono-2-ethylhexyl phthalate (MEHP)","cg26507820","15",98065948,"LOC101927286","OpenSea","TSS1500",0.485,0.064,"0.0255 (0.0159;0.0350)",1.71312686889947e-07,0.016
+"Female","Mono-2-ethyl-5oxo-hexyl phthalate (MEOHP)","cg14887482","3",186383213,"HRG","OpenSea","TSS1500",0.352,0.1,"0.0385 (0.0238;0.0531)",2.83136127599242e-07,0.046
+"Female","Mono-2-ethyl-5oxo-hexyl phthalate (MEOHP)","cg16435635","5",150748119,"Unknown","OpenSea","No group",0.782,0.104,"0.0519 (0.0328;0.0710)",1.01817001400125e-07,0.038
+"Female","Mono-2-ethyl-5oxo-hexyl phthalate (MEOHP)","cg23635275","20",37561562,"FAM83D","OpenSea","Body",0.776,0.044,"0.0195 (0.0123;0.0266)",8.96223227136478e-08,0.038
+"Female","Mono-2-ethyl-5oxo-hexyl phthalate (MEOHP)","cg25151529","10",44529280,"Unknown","OpenSea","No group",0.599,0.102,"0.0413 (0.0257;0.0569)",2.005958799585e-07,0.046
+"Female","Mono-2-carboxymethylhexyl phthalate (MMCHP)","cg07047123","8",288634,"Unknown","OpenSea","No group",0.731,0.083,"Non-linear",5.96673406197596e-08,0.045
+"Female","Mono-2-carboxymethylhexyl phthalate (MMCHP)","cg11640677","8",326544,"FAM87A","OpenSea","Body",0.578,0.081,"0.0510 (0.0319;0.0702)",1.79944122837496e-07,0.034
+"Female","Mono-2-carboxymethylhexyl phthalate (MMCHP)","cg21023307","2",4188382,"Unknown","OpenSea","No group",0.58,0.105,"0.0702 (0.0433;0.0971)",3.0184126913546e-07,0.045
+"Female","Butylparaben (BUPA)","cg07180133","17",5689744,"LOC339166","OpenSea","Body",0.542,0.103,"0.0660 (0.0426;0.0894)",3.28391462970452e-08,0.025
+"Male","Ethylparaben (ETPA)","cg02162069","19",57352134,"ZIM2;ZIM2;PEG3;MIMT1;PEG3;PEG3;PEG3;ZIM2","Island","TSS200;TSS200;TSS200;TSS200;TSS200;TSS200;TSS200;TSS200",0.47,0.043,"0.0076 (0.0046;0.0105)",5.14306059267353e-07,0.039
+"Male","Ethylparaben (ETPA)","cg02569682","9",6787574,"KDM4C;KDM4C;KDM4C;KDM4C;KDM4C;KDM4C;KDM4C","OpenSea","5'UTR;5'UTR;5'UTR;5'UTR;Body;5'UTR;Body",0.301,0.105,"0.0087 (0.0052;0.0122)",9.4999550626434e-07,0.042
+"Male","Ethylparaben (ETPA)","cg05334419","1",180494132,"Unknown","OpenSea","No group",0.396,0.102,"0.0094 (0.0060;0.0128)",6.34793123705884e-08,0.012
+"Male","Ethylparaben (ETPA)","cg07468327","16",54170217,"Unknown","OpenSea","No group",0.251,0.094,"0.0081 (0.0050;0.0111)",3.11308779449666e-07,0.036
+"Male","Ethylparaben (ETPA)","cg08579619","1",26145578,"MTFR1L;MTFR1L;MTFR1L","N_Shore","TSS1500;TSS1500;TSS1500",0.327,0.049,"0.0071 (0.0042;0.0101)",1.72450390020768e-06,0.05
+"Male","Ethylparaben (ETPA)","cg12206423","13",88330614,"SLITRK5","S_Shore","3'UTR",0.151,0.101,"0.0213 (0.0141;0.0285)",6.62089476851702e-09,0.005
+"Male","Ethylparaben (ETPA)","cg12774644","1",220543370,"Unknown","OpenSea","No group",0.188,0.076,"0.0067 (0.0039;0.0094)",1.62310078338286e-06,0.049
+"Male","Ethylparaben (ETPA)","cg13945838","1",145704105,"CD160;CD160;NBPF20;NBPF10;NBPF10","OpenSea","Body;Body;Body;Body;Body",0.299,0.115,"0.0106 (0.0064;0.0147)",6.05752902085705e-07,0.039
+"Male","Ethylparaben (ETPA)","cg16537749","17",59668583,"NACA2","OpenSea","TSS200",0.846,0.04,"0.0087 (0.0056;0.0118)",3.8484874536556e-08,0.011
+"Male","Ethylparaben (ETPA)","cg22882506","10",106093718,"ITPRIP","N_Shelf","TSS200",0.547,0.041,"0.0075 (0.0048;0.0102)",4.29036745001268e-08,0.011
+"Male","Ethylparaben (ETPA)","cg24782723","6",31105936,"PSORS1C1;PSORS1C2","OpenSea","Body;Body",0.299,0.114,"0.0143 (0.0086;0.0200)",7.52417447259779e-07,0.039
+"Male","Ethylparaben (ETPA)","cg26155170","1",943064,"Unknown","OpenSea","No group",0.335,0.118,"0.0104 (0.0064;0.0144)",3.36086367728368e-07,0.036
+"Male","Methylparaben (MEPA)","cg00927624","14",88796191,"Unknown","S_Shelf","No group",0.328,0.145,"0.0233 (0.0134;0.0333)",4.22137110947243e-06,0.033
+"Male","Methylparaben (MEPA)","cg01287788","2",86362935,"SNORD94;PTCD3","OpenSea","TSS200;Body",0.918,0.022,"0.0036 (0.0022;0.0050)",4.10172718656851e-07,0.021
+"Male","Methylparaben (MEPA)","cg01476705","9",111827626,"TMEM245","OpenSea","Body",0.308,0.116,"0.0077 (0.0048;0.0106)",2.20230195920479e-07,0.014
+"Male","Methylparaben (MEPA)","cg05301486","19",2446864,"LMNB2","S_Shelf","Body",0.934,0.017,"0.0027 (0.0017;0.0037)",9.99576540151891e-08,0.009
+"Male","Methylparaben (MEPA)","cg11659361","1",11708292,"Unknown","N_Shore","No group",0.828,0.049,"Non-linear",1.16313201276339e-07,0.043
+"Male","Methylparaben (MEPA)","cg13608744","15",98685933,"Unknown","OpenSea","No group",0.508,0.049,"0.0073 (0.0042;0.0104)",3.79174260437353e-06,0.033
+"Male","Methylparaben (MEPA)","cg15670475","19",18905020,"Unknown","S_Shelf","No group",0.461,0.066,"0.0088 (0.0053;0.0123)",7.76242538800975e-07,0.024
+"Male","Methylparaben (MEPA)","cg16334795","21",42538894,"BACE2;BACE2;BACE2","N_Shore","TSS1500;TSS1500;TSS1500",0.251,0.064,"0.0105 (0.0058;0.0152)",1.05180755285671e-05,0.045
+"Male","Methylparaben (MEPA)","cg17095939","2",175410658,"Unknown","OpenSea","No group",0.78,0.08,"-0.0134 (-0.0187;-0.0082)",5.10561132700679e-07,0.021
+"Male","Methylparaben (MEPA)","cg18952253","17",18546078,"TBC1D28","OpenSea","5'UTR",0.859,0.025,"0.0043 (0.0028;0.0059)",7.38716453564573e-08,0.009
+"Male","Propylparaben (PRPA)","cg13492856","20",2636391,"SNORD57;NOP56;SNORD86;NOP56;SNORD56","S_Shelf","TSS1500;Body;TSS1500;Body;TSS1500",0.931,0.015,"0.0015 (0.0010;0.0020)",3.33680292335155e-08,0.025
+"Male","Mono-2-ethylhexyl phthalate (MEHP)","cg14583561","7",16697527,"BZW2;BZW2;BZW2","OpenSea","5'UTR;5'UTR;Body",0.198,0.07,"0.0131 (0.0084;0.0179)",6.61340450392141e-08,0.05
+"Male","Mono-4-methyl-7-oxooctyl phthalate (oxo-MiNP)","cg01223440","12",7613842,"Unknown","OpenSea","No group",0.907,0.028,"-0.0100 (-0.0136;-0.0064)",4.43056182351521e-08,0.033
+"Male","Mono-4-methyl-7-oxooctyl phthalate (oxo-MiNP)","cg16512615","4",141490351,"UCP1","Island","TSS1500",0.128,0.158,"Non-linear",1.87053466213896e-09,0.001
+"Male","Mono-4-methyl-7-oxooctyl phthalate (oxo-MiNP)","cg21325154","4",141490354,"UCP1","Island","TSS1500",0.141,0.16,"Non-linear",3.62834124153421e-08,0.009
+"Male","Molar sum of di-isononyl phthalate (DiNP) metabolites (ΣDiNP)","cg03312601","3",187459269,"BCL6","S_Shore","5'UTR",0.044,0.029,"Non-linear",9.04876008605104e-08,0.017
+"Male","Molar sum of di-isononyl phthalate (DiNP) metabolites (ΣDiNP)","cg04819760","10",22765645,"Unknown","Island","No group",0.158,0.113,"Non-linear",1.52083640639878e-08,0.004
+"Male","Molar sum of di-isononyl phthalate (DiNP) metabolites (ΣDiNP)","cg15815333","10",22765209,"Unknown","Island","No group",0.128,0.154,"Non-linear",1.22757857268855e-08,0.004
+"Male","2-(((hydroxy-4-methyloctyl)oxy)carbonyl) cyclohexanecarboxylic acid (OH-MINCH)","cg01701415","10",74870311,"NUDT13;NUDT13","OpenSea","5'UTR;1stExon",0.013,0.009,"Non-linear",2.8442342900453e-07,0.037
+"Male","2-(((hydroxy-4-methyloctyl)oxy)carbonyl) cyclohexanecarboxylic acid (OH-MINCH)","cg02744799","7",6475609,"DAGLB;DAGLB","OpenSea","Body;Body",0.07,0.033,"Non-linear",7.23043768013832e-08,0.016
+"Male","2-(((hydroxy-4-methyloctyl)oxy)carbonyl) cyclohexanecarboxylic acid (OH-MINCH)","cg20824867","11",778018,"PDDC1","S_Shore","TSS1500",0.043,0.025,"Non-linear",2.96539485893714e-07,0.037
+"Male","2-(((hydroxy-4-methyloctyl)oxy)carbonyl) cyclohexanecarboxylic acid (OH-MINCH)","cg21659431","15",98837004,"Unknown","OpenSea","No group",0.355,0.167,"Non-linear",8.39722073626606e-08,0.016
+"Male","2-(((hydroxy-4-methyloctyl)oxy)carbonyl) cyclohexanecarboxylic acid (OH-MINCH)","cg22163130","12",62586665,"FAM19A2","S_Shore","TSS200",0.013,0.007,"Non-linear",6.20922980656351e-08,0.016
+"Male","2-(((hydroxy-4-methyloctyl)oxy)carbonyl) cyclohexanecarboxylic acid (OH-MINCH)","cg25235849","4",2935996,"C4orf10;MFSD10;MFSD10","Island","TSS1500;TSS200;5'UTR",0.016,0.006,"Non-linear",1.05629073027967e-08,0.008
+"Male","2-(((4-methyl-7-oxooctyl)oxy)carbonyl) cyclohexanecarboxylic acid (oxo-MINCH)","cg02744799","7",6475609,"DAGLB;DAGLB","OpenSea","Body;Body",0.07,0.033,"Non-linear",6.17849638837671e-08,0.023
+"Male","2-(((4-methyl-7-oxooctyl)oxy)carbonyl) cyclohexanecarboxylic acid (oxo-MINCH)","cg25235849","4",2935996,"C4orf10;MFSD10;MFSD10","Island","TSS1500;TSS200;5'UTR",0.016,0.006,"Non-linear",1.45733459987953e-08,0.011
+"Male","Molar sum of 1,2-cyclohexane dicarboxylic acid di-isononyl ester (DINCH) metabolites (ΣDiNCH)","cg02744799","7",6475609,"DAGLB;DAGLB","OpenSea","Body;Body",0.07,0.033,"Non-linear",1.50981551502181e-07,0.038
+"Male","Molar sum of 1,2-cyclohexane dicarboxylic acid di-isononyl ester (DINCH) metabolites (ΣDiNCH)","cg07862094","1",212740684,"ATF3","OpenSea","5'UTR",0.019,0.012,"Non-linear",4.43006941028689e-07,0.042
+"Male","Molar sum of 1,2-cyclohexane dicarboxylic acid di-isononyl ester (DINCH) metabolites (ΣDiNCH)","cg19532954","1",23886409,"ID3","S_Shore","TSS200",0.014,0.009,"Non-linear",4.19909339635323e-07,0.042
+"Male","Molar sum of 1,2-cyclohexane dicarboxylic acid di-isononyl ester (DINCH) metabolites (ΣDiNCH)","cg21659431","15",98837004,"Unknown","OpenSea","No group",0.355,0.167,"Non-linear",2.022983113288e-07,0.038
+"Male","Molar sum of 1,2-cyclohexane dicarboxylic acid di-isononyl ester (DINCH) metabolites (ΣDiNCH)","cg22163130","12",62586665,"FAM19A2","S_Shore","TSS200",0.013,0.007,"Non-linear",3.35124222973696e-08,0.013
+"Male","Molar sum of 1,2-cyclohexane dicarboxylic acid di-isononyl ester (DINCH) metabolites (ΣDiNCH)","cg25235849","4",2935996,"C4orf10;MFSD10;MFSD10","Island","TSS1500;TSS200;5'UTR",0.016,0.006,"Non-linear",3.49078034989609e-09,0.003
+"Male","Molar sum of 1,2-cyclohexane dicarboxylic acid di-isononyl ester (DINCH) metabolites (ΣDiNCH)","cg25405604","22",41986067,"PMM1","S_Shore","TSS200",0.018,0.008,"Non-linear",5.77325694221806e-07,0.048
+"Male","Bisphenol S (BPS)","cg19943985","9",138234128,"C9orf62","OpenSea","TSS1500",0.241,0.082,"-0.0334 (-0.0450;-0.0217)",1.98352965159573e-08,0.015

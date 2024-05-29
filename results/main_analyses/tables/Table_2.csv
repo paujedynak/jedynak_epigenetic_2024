@@ -1,0 +1,4 @@
+"child_sex","Expo_family","Exposure_name","CpG","Chr","Position","Gene","Location_of_CpG","Location_in_gene","Mean_meth","SD_meth","Estimate_CI_SEPAGES","raw_p_value_SEPAGES","Estimate_CI_EDEN","raw_p_value_EDEN"
+"Male","Phenol","Ethylparaben","cg13444964","1",236687053,"LGALS8;LGALS8;LGALS8;LGALS8","N_Shore","5'UTR;TSS200;5'UTR;5'UTR",0.05,0.021,"-0.0017 (-0.0033;-0.0001)",0.034,"Non-linear",0
+"Female","Phenol","Propylparaben","cg27455890","10",118976677,"Unknown","Island","No group",0.046,0.03,"0.0018 (0.0006;0.0031)",0.003,"Non-linear",0
+"both_sexes","Phenol","Propylparaben","cg27455890","10",118976677,"Unknown","Island","No group",0.046,0.03,"0.0009 (0.0003;0.0016)",0.004,"Non-linear",0
